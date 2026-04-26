@@ -1,0 +1,2 @@
+# YOLO-Based-Automated-Video-KYC-and-AML-Fraud-Detection-System
+SecureFin is a full-stack KYC and AML verification system built with FastAPI, computer vision, OCR, and machine learning. It supports agent authentication, document verification, guided liveness detection, transaction risk scoring, encrypted image storage, audit logging, and evaluation dashboards for compliance-focused fintech workflows.
