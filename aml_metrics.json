@@ -1,0 +1,16 @@
+{
+  "sample_size": 108213,
+  "fraud_count": 8213,
+  "non_fraud_count": 100000,
+  "true_negative": 98137,
+  "false_positive": 1863,
+  "false_negative": 4470,
+  "true_positive": 3743,
+  "precision": 0.6676774884052801,
+  "recall": 0.4557408985754292,
+  "specificity": 0.98137,
+  "accuracy": 0.9414765323944443,
+  "f1_score": 0.54171792459657,
+  "roc_auc": 0.8985320132716426,
+  "average_precision": 0.5958632729845673
+}

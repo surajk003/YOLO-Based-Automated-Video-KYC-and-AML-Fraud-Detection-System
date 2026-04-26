@@ -1,0 +1,53 @@
+{
+  "sample_size": 22,
+  "unique_customers": 1,
+  "verified_count": 0,
+  "failed_count": 22,
+  "verified_rate_percent": 0.0,
+  "average_confidence": 59.027272727272745,
+  "face_match_pass_rate_percent": 0.0,
+  "blink_pass_rate_percent": 94.73684210526315,
+  "top_reason_codes": [
+    [
+      "FACE_MISMATCH",
+      22
+    ],
+    [
+      "SINGLE_PERSON_PASS",
+      20
+    ],
+    [
+      "BLINK_PASS",
+      18
+    ],
+    [
+      "NAME_MISMATCH",
+      13
+    ],
+    [
+      "DOB_MATCH",
+      11
+    ],
+    [
+      "NAME_MATCH",
+      9
+    ],
+    [
+      "TURN_LEFT_FAIL",
+      7
+    ],
+    [
+      "TURN_RIGHT_PASS",
+      6
+    ],
+    [
+      "TURN_LEFT_PASS",
+      4
+    ],
+    [
+      "FACE_NOT_FOUND_FOR_LIVENESS",
+      2
+    ]
+  ],
+  "note": "This is operational validation data from stored KYC runs, not ground-truth model accuracy."
+}
